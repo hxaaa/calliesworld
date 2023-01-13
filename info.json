@@ -1,0 +1,321 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://tcxx.info/",
+            "path": "tcxx.info/index.html",
+            "saved": true,
+            "size": 31043,
+            "children": [
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/bg/me.jpg",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/bg/me.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/portfolio/game1.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/portfolio/game1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/portfolio/game2.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/portfolio/game2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/portfolio/flash1.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/portfolio/flash1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/portfolio/game3.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/portfolio/game3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/portfolio/other1.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/portfolio/other1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/portfolio/game5.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/portfolio/game5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/github.svg",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/favicon/github.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/weibo.svg",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/favicon/weibo.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/email.svg",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/favicon/email.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://tcxx.info/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+                    "path": "tcxx.info/wp-includes/js/jquery/jquery.min.js",
+                    "saved": true,
+                    "size": 89521,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+                    "path": "tcxx.info/wp-includes/js/jquery/jquery-migrate.min.js",
+                    "saved": true,
+                    "size": 11224,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+                    "path": "tcxx.info/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+                    "saved": true,
+                    "size": 1239,
+                    "children": []
+                },
+                {
+                    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/js/jquery.min.js",
+                    "path": "tcxx.info/wp-content/themes/StarryW/js/jquery.min.js",
+                    "saved": true,
+                    "size": 85578,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/js/plugin.js",
+                    "path": "tcxx.info/wp-content/themes/StarryW/js/plugin.js",
+                    "saved": true,
+                    "size": 86417,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/js/scripts.js",
+                    "path": "tcxx.info/wp-content/themes/StarryW/js/scripts.js",
+                    "saved": true,
+                    "size": 3264,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/js/starry.js",
+                    "path": "tcxx.info/wp-content/themes/StarryW/js/starry.js",
+                    "saved": true,
+                    "size": 4593,
+                    "children": []
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=UA-108465900-1",
+                    "saved": false
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/js/skip-link-focus-fix.js?ver=20160816",
+                    "path": "tcxx.info/wp-content/themes/StarryW/js/skip-link-focus-fix.js",
+                    "saved": true,
+                    "size": 1059,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/js/functions.js?ver=20160816",
+                    "path": "tcxx.info/wp-content/themes/StarryW/js/functions.js",
+                    "saved": true,
+                    "size": 6820,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-includes/js/wp-embed.min.js?ver=5.8.2",
+                    "path": "tcxx.info/wp-includes/js/wp-embed.min.js",
+                    "saved": true,
+                    "size": 1426,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/plugin.css",
+                    "path": "tcxx.info/wp-content/themes/StarryW/plugin.css",
+                    "saved": true,
+                    "size": 121200,
+                    "children": [
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/fonts/glyphicons-halflings-regular.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/fonts/glyphicons-halflings-regular.eot?#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/fonts/glyphicons-halflings-regular.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/fonts/glyphicons-halflings-regular.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/fonts/glyphicons-halflings-regular.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://calliesworld.99688.xyz/wp-content/themes/StarryW/style.css",
+                    "path": "tcxx.info/wp-content/themes/StarryW/style.css",
+                    "saved": true,
+                    "size": 28941,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2",
+                    "path": "tcxx.info/wp-includes/css/dist/block-library/style.min.css",
+                    "saved": true,
+                    "size": 80571,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/genericons/genericons.css?ver=3.4.1",
+                    "path": "tcxx.info/wp-content/themes/StarryW/genericons/genericons.css",
+                    "saved": true,
+                    "size": 28255,
+                    "children": [
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/StarryW/genericons/Genericons.eot",
+                            "path": "tcxx.info/wp-content/themes/StarryW/genericons/Genericons.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/StarryW/genericons/Genericons.ttf",
+                            "path": "tcxx.info/wp-content/themes/StarryW/genericons/Genericons.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://tcxx.info/wp-content/themes/StarryW/genericons/Genericons.svg#Genericons",
+                            "path": "tcxx.info/wp-content/themes/StarryW/genericons/Genericons.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/style.css?ver=5.8.2",
+                    "path": "tcxx.info/wp-content/themes/StarryW/style_1.css",
+                    "saved": true,
+                    "size": 28941,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/apple-touch-icon.png",
+                    "path": "tcxx.info/wp-content/themes/StarryW/images/favicon/apple-touch-icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "tcxx-info-435668zb",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://tcxx.info/wp-content/themes/StarryW/plugin.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://tcxx.info/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Tue, 30 Nov 2021 04:11:14 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "link": "<https://tcxx.info/wp-json/>; rel=\"https://api.w.org/\"",
+                "vary": "Accept-Encoding",
+                "cf-cache-status": "DYNAMIC",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=DgaEbkjOZHXL1gvERQNsQEeGnyagtF0mEWVLCLRKBvjTFiLlzeo5DryuhJ49%2FkFyWyUYnmRUfMd0xuqdI0wB85gOlRGkNJ6rOiXedYTVRlB0wBqEq9I2Q0k8k38%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "6b613b060b3b80d2-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2021-11-30T04:11:14.120Z",
+            "end": "2021-11-30T04:11:23.670Z"
+        },
+        "remark": [],
+        "ip": "172.67.165.64",
+        "url": "https://tcxx.info/",
+        "main": "tcxx.info/index.html",
+        "domain": "tcxx.info",
+        "origin": "https://tcxx.info",
+        "totalSize": "610 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://tcxx.info/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "bySiteStructure"
+    }
+}
